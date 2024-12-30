@@ -1,7 +1,7 @@
 ### Hi, I'm Gayal👋
 
 - 🌱 Passionate self-taught full-stack web developer with expertise in various web technologies.
-- 🔧 Proficient in various front-end frameworks like React.js , and adept at diving into backend technologies like Node.js.
+- 🔧 Proficient in various front-end frameworks like NextJS, ReactJS and adept at diving into backend technologies like Node.js.
 - 📚 Constantly learning and expanding my skill set to stay ahead in the ever-evolving tech landscape.
 - 
 - 🔗 Explore my projects below and see what I've been working on!
